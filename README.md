@@ -5,4 +5,4 @@
 
 # [微信公众号](weixinmp.md)
 
-# [博客](blog.md)
+# [个人博客](blog.md)
