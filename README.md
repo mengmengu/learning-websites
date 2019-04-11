@@ -5,6 +5,8 @@
 
 # [微信公众号](weixinmp.md)
 
-# [个人博客](blog.md)
+# [个人博客](blog/personal_blog.md)
+
+# [团队博客](team_blog.md)
 
 # [APP软件](app.md)
