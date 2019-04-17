@@ -10,3 +10,5 @@
 # [团队博客](team_blog.md)
 
 # [APP软件](app.md)
+
+# [技术文档及资源](document.md)
