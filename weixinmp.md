@@ -1,6 +1,15 @@
 # 微信公众号
 
 ##### A
++ 阿里巴巴中间件
+
+  ![阿里巴巴中间件](images/weixinmp/qrcode_Aliware_2018.jpg) 
+
+  ```
+  微信号: Aliware_2018
+  简介：
+     Aliware阿里巴巴中间件官方账号
+  ```
 + 阿里技术
 
   ![阿里技术](images/weixinmp/qrcode_ali_tech.jpg)
