@@ -13,4 +13,6 @@
 
 # [技术文档及资源](document.md)
 
-# [Mac工具](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+# [上机操作](practice.md)
+
+# [工具](tools.md)
