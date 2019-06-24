@@ -15,4 +15,6 @@
 
 # [上机操作](practice.md)
 
+# [社区](community.md)
+
 # [工具](tools.md)
