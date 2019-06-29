@@ -6,9 +6,12 @@
 
 [极客时间APP下载](https://time.geekbang.org/download)
 
+扫码关注极客时间服务号
+![极客时间服务号](../images/weixinmp/qrcode_jikeshijian.jpg)
+
 感谢支持，不胜感激！😄
 
-注意⚠️：
+大家注意一下⚠️：
 
 ```
   1、新人购买：只限第一次购买课程的新人，之后不再享有新人购买价。
