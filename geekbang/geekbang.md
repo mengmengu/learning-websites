@@ -7,6 +7,7 @@
 [极客时间APP下载](https://time.geekbang.org/download)
 
 扫码关注极客时间服务号
+
 ![极客时间服务号](../images/weixinmp/qrcode_jikeshijian.jpg)
 
 感谢支持，不胜感激！😄
