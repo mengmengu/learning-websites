@@ -22,7 +22,7 @@
 
 # 新人邀请
 
-[请你看专栏，领取 35 元新人礼](https://time.geekbang.org/activity/getinvite?gk_ucode=3755D040B7CCD5&from=singlemessage&isappinstalled=0)
+# [请你看专栏，领取 35 元新人礼](https://time.geekbang.org/activity/getinvite?gk_ucode=3755D040B7CCD5&from=singlemessage&isappinstalled=0)
 
 # 专栏
 
