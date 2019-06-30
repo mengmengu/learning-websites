@@ -21,8 +21,8 @@
 + [咕泡学院](https://www.gupaoedu.com/)
 
 ##### J
-+ [极客学院](https://www.jikexueyuan.com/) ---> [课程](geekbang/geekbang.md)
-+ [极客时间](https://time.geekbang.org/)
++ [极客学院](https://www.jikexueyuan.com/)
++ [极客时间](https://time.geekbang.org/) ---> [课程](geekbang/geekbang.md)
 + [饥人谷前端培训](https://jirengu.com/app/album/index)
 
 ##### K
