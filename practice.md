@@ -10,6 +10,9 @@
   - [力扣-探索](https://leetcode-cn.com/explore/)
   - [力扣-题库](https://leetcode-cn.com/problemset/all/)
 
+##### N
++ [牛客网-NOWCODER](https://www.nowcoder.com/)
+
 ##### K
 + [Katacoda](https://www.katacoda.com/)
 
