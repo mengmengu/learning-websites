@@ -9,6 +9,8 @@
   - [LeetCode-problems](https://leetcode.com/problemset/all/)
   - [力扣-探索](https://leetcode-cn.com/explore/)
   - [力扣-题库](https://leetcode-cn.com/problemset/all/)
++ lintcode(领扣)
+  - [lintcode](https://www.lintcode.com)
 
 ##### N
 + [牛客网-NOWCODER](https://www.nowcoder.com/)
