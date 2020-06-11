@@ -50,6 +50,16 @@
      工作15年的前IBM架构师分享好玩有趣的编程知识和职场的经验教训， 不容错过。
   ```
 ##### S
++ 石杉的架构笔记
+
+  ![石杉的架构笔记](images/weixinmp/qrcode_shishan100.jpg)
+  
+  ```
+  微信号: shishan100
+  简介：
+     专注原创、用心雕琢！十余年BAT一线大厂架构经验倾囊相授
+  ```
+
 + SpringForAll社区
 
   ![SpringForAll社区](images/weixinmp/qrcode_spring4all.jpg)
