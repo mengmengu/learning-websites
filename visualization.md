@@ -3,6 +3,9 @@
 ##### A
 + [Algorithms](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+##### F
++ [Free AI-Hub](https://www.freeaihub.com/index.html)
+
 ##### L
 + [Learning Git Branching](https://learngitbranching.js.org/)
 
