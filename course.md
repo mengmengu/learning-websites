@@ -22,7 +22,7 @@
 
 ##### J
 + [极客学院](https://www.jikexueyuan.com/)
-+ [极客时间](https://time.geekbang.org/) ---> [课程](geekbang/geekbang.md)
++ [极客时间](https://time.geekbang.org/) ---> [课程](courses/geekbang/geekbang.md)
 + [饥人谷前端培训](https://jirengu.com/app/album/index)
 
 ##### K
@@ -37,6 +37,9 @@
 + [蚂蚁课堂](http://www.mayikt.com/)
 + [魔乐科技](http://www.mldn.cn/course/explore?orderBy=latest)
 + [麦子学院](http://www.maiziedu.com/)
+
+##### R
++ [儒猿技术窝-专栏](courses/ruyuan/ruyuan.md)
 
 ##### S
 + [Spring4All-视频教程](http://www.spring4all.com/videos)
